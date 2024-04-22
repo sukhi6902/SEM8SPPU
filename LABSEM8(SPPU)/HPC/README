@@ -1,1 +1,3 @@
-
+# commands in terminal 
+g++ file_name.cpp
+./a.out
