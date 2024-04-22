@@ -1,3 +1,8 @@
 # commands in terminal 
+g++ 1_BFS_DFS.cpp -o BFS_DFS -fopenmp
+./BFS_DFS
+
+OR
+
 g++ file_name.cpp
 ./a.out
